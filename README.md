@@ -18,5 +18,5 @@ I have used eclipse photon, java 1.8, tomcat 8.5 and MySQL 5.7.31
 
 For more visit <a href="http://projects.adsingh.net/">projects.adsingh.net !</a>
 
-##### If you find any bug in this software, please inform me. I also want to welcome your any suggestion about this software. Thanks for using this web application.
+##### If you find any bug in this software, please inform me. I also want to welcome your any suggestion about this web application. Thanks for using this web application.
 
