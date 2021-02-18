@@ -11,7 +11,7 @@ I have used eclipse photon, java 1.8, tomcat 8.5 and MySQL 5.7.31
 <div align="center">
 <video width="320" height="240" controls>
   <source src="vid_main.mp4" type="video/mp4">
-  Video not supported by btowser(vid_main.mp4) 
+  Video not supported by your browser(vid_main.mp4) 
 </video>
 </div>
 
