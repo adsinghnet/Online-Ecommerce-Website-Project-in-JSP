@@ -8,7 +8,12 @@ I have used eclipse photon, java 1.8, tomcat 8.5 and MySQL 5.7.31
 <br>
 <p>Thanx for using <u>Ecommerce Website Project</u></p>
 
-<div align="center"><source src="vid_main.mp4" type="video/mp4"></div>
+<div align="center">
+<video width="320" height="240" controls>
+  <source src="vid_main.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div>
 
 
 For more visit <a href="http://projects.adsingh.net/">projects.adsingh.net !</a>
