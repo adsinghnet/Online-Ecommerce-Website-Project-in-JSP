@@ -9,7 +9,7 @@ I have used eclipse photon, java 1.8, tomcat 8.5 and MySQL 5.7.31
 <p>Thanx for using <u>Ecommerce Website Project</u></p>
 
 <div align="center"><h3>Preview & Working</h3>
-<a href="http://projects.adsingh.net/?p=346">http://projects.adsingh.net/?p=346 !</a>
+<a href="http://projects.adsingh.net/?p=346">http://projects.adsingh.net/?p=346</a>
 <video width="320" height="240" controls>
   <source src="vid_main.mp4" type="video/mp4">
   Video not supported by your browser(vid_main.mp4) 
