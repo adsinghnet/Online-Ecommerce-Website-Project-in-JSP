@@ -1,4 +1,4 @@
-# Online Ecommerce Website Project in JSP
+# Online Ecommerce Website Project in Java ( JSP )
 <hr>
 <p align="right">Created and designed by AD Singh
 <hr>
